@@ -1,5 +1,3 @@
-
-
 // Online C++ compiler to run C++ program online
 // ============================================================
 // Lab: More Details about Classes
@@ -147,4 +145,3 @@ int main() {
     std::cout << "Complete the TODOs above!" << std::endl;
     return 0;
 }
-
